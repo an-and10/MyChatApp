@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "917566633929",
+    "firebase_url": "https://multi-chat-9e148.firebaseio.com",
+    "project_id": "multi-chat-9e148",
+    "storage_bucket": "multi-chat-9e148.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917566633929:android:121296db9b937a190fda18",
+        "android_client_info": {
+          "package_name": "com.example.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917566633929-i4s3ce8jen95ps2qj6f0noe8nv4br57a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videoplayer",
+            "certificate_hash": "56a5be82916936bafa2c53eebbab3fb17d87d48d"
+          }
+        },
+        {
+          "client_id": "917566633929-6876t1jb38fs2odjiln3ef5rrf5nqi70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNfE_iWdbsE6ZNK4jiYiCkXZcu5I2B_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917566633929-6876t1jb38fs2odjiln3ef5rrf5nqi70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
